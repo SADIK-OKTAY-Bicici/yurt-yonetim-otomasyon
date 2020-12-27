@@ -1,0 +1,2 @@
+# yurt-yonetim-otomasyon
+yurt
